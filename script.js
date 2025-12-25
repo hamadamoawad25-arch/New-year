@@ -44,7 +44,7 @@ function updateCountdown() {
                 `;
     }
     if (diff <= 0) {
-        document.getElementById('timer').innerHTML = `<div>🎉 بدأت سنتنا 🎉</div>`;
+        document.getElementById('timer').innerHTML = `<div>🎉  بدأت سنتنا الجديده ي مزتي 😘 🎉</div>`;
         return;
     }
 
@@ -196,5 +196,6 @@ document.addEventListener("keydown", function (e) {
         return false;
     }
 });
+
 
 
